@@ -29,6 +29,3 @@ node_modules
 # Mac swap files and DS_Store
 *.DS_Store
 *.swp
-updater/index.html
-updater/scripts.js
-updater/styles.css

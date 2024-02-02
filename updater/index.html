@@ -1,17 +1,22 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<link href="styles.css" rel="stylesheet" type="text/css">
-		<title>KC3改 Translator Interface</title>
-	</head>
-	<body>
-		<input type="text" id="lang_code" style="wdith:100px; height:20px; padding:0px; font-family:monospace;" placeholder="LangCode">
-		<input type="button" style="height:24px;" id="lang_submit" value="Check terms.json">
-		<hr />
-		<textarea id="newjson" style="width:800px; height:600px;"></textarea>
-		
-		<script type="text/javascript" src="jquery.min.js"></script>
-		<script type="text/javascript" src="scripts.js"></script>
-	</body>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link href="styles.css" rel="stylesheet" type="text/css">
+        <title>KC3改 Translator Interface</title>
+    </head>
+    <body>
+        <div class="input-section">
+            <input type="text" id="lang_code" placeholder="LangCode">
+            <input type="text" id="json_file" placeholder="JSON Filename">
+            <input type="button" id="lang_submit" value="Check JSON">
+        </div>
+        <div class="textarea-section">
+            <textarea id="enjson" placeholder="English JSON"></textarea>
+            <textarea id="newjson" placeholder="Merged JSON"></textarea>
+        </div>
+
+        <script type="text/javascript" src="jquery.min.js"></script>
+        <script type="text/javascript" src="scripts.js"></script>
+    </body>
 </html>

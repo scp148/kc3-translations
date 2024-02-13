@@ -435,7 +435,7 @@
 	"DevelopmentHelp3Q": "*****Can I do filtering by ship type?",
 	"DevelopmentHelp3A": "*****Nope, it's troublesome via only one select control matching by IDs. Feel free to enhance it if you would like to.",
 	
-	"DevelopmentFailureOption": "*****&lt;Penguin&gt;",
+	"DevelopmentFailureOption": "开发失败...",
 
 	"LargeShipConstrHistoryPageTitle": "大型舰建造历史",
 
@@ -614,10 +614,10 @@
 	"FleetManagerFleetSaveButton": "保存...",
 	"FleetManagerFleetViewToggleButton": "切换视图",
 	"FleetManagerFleetExportToLabel": "导出至：",
-	"FleetManagerExportDeckBuilderButton": "*****DeckBuilder",
+	"FleetManagerExportDeckBuilderButton": "DeckBuilder",
 	"FleetManagerExportImgBuilderButton": "*****ImgBuilder",
-	"FleetManagerExportAirCalcButton": "*****AirSimulator",
-	"FleetManagerExportJervisOrButton": "*****JervisOR",
+	"FleetManagerExportAirCalcButton": "制空权模拟器",
+	"FleetManagerExportJervisOrButton": "Jervis作战室",
 	"FleetManagerSavedSuggestFleetName": "舰队（{0:savedDateTime}）",
 	"FleetManagerSavedFleetName": "已保存舰队 '{0:userDefinedName}'",
 	"FleetManagerSavedInputNamePrompt": "输入名称",
@@ -803,10 +803,10 @@
 	"BattleHistoryFleetButtonToManagerTip": "*****View fleets at Fleet Manager",
 	"BattleHistoryFleetButtonImgBuilder": "*****ImgBuilder",
 	"BattleHistoryFleetButtonImgBuilderTip": "*****View fleets on external ImgBuilder site",
-	"BattleHistoryFleetButtonAirCalc": "*****AirSimulator",
-	"BattleHistoryFleetButtonAirCalcTip": "*****View fleets on external Aerial Combat Simulator",
-	"BattleHistoryFleetButtonJervisOr": "*****JervisOR",
-	"BattleHistoryFleetButtonJervisOrTip": "*****View fleets on external Fleet Hub",
+	"BattleHistoryFleetButtonAirCalc": "制空权模拟器",
+	"BattleHistoryFleetButtonAirCalcTip": "在制空权模拟器中查看",
+	"BattleHistoryFleetButtonJervisOr": "Jervis作战室",
+	"BattleHistoryFleetButtonJervisOrTip": "在Jervis作战室中查看",
 
 	"BattleHistoryAirRaidTip": "航空基地受伤害共计：{0}\n损失情况：{1}\n燃料或铝土矿损失：{2}\n制空状态：{3}\n{11:推算的敌方制空值}\n击坠敌机率：{4}\n敌舰攻残余：{5}\n敌舰爆残余：{6}\n对敌爆击最有效的防空航空队:\n　中队1：{7}\n　中队2：{8}\n　中队3：{9}\n　中队4：{10}",
 	"BattleHistoryHeavyAirRaidTip": "超重爆空袭迎击按钮结果：{0}\n来袭敌舰ID：{1}",

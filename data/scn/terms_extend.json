@@ -646,12 +646,11 @@
 	"EventHistoryWorldTab54": "2022春活",
 	"EventHistoryWorldTab55": "2022夏活",
 	"EventHistoryWorldTab55Tip": "2022年度夏季、秋季合并活动",
-	"EventHistoryWorldTab56": "2023早春活",
-	"EventHistoryWorldTab56Tip": "2023年度冬季、早春合并活动",
-	"EventHistoryWorldTab57": "2023夏活",
+	"EventHistoryWorldTab56" : "2023早春活",
+	"EventHistoryWorldTab56Tip" : "2023年度冬季、早春合并活动",
+	"EventHistoryWorldTab57" : "2023夏活",
 	"EventHistoryWorldTab58" : "2024早春活",
 	"EventHistoryWorldTab58Tip" : "2024年度冬季、早春合并活动",
-
 
 	"BattleHistoryMinimapPreview": "{0}-{1} 海图预览",
 	"BattleHistoryElosBranchesTitle": "已知索敌路线分歧：",
@@ -660,7 +659,6 @@
 	"BattleHistoryKillsReqTip": "血量条: {0}",
 	"BattleHistoryKillsProgress": "血量条: {0} / {1}",
 	"BattleHistoryMultiKillsProgress": "P{0} 血量条: {1} / {2}",
-
 	"BattleHistoryPagingSettingLabel": "项每页",
 	"BattleHistoryPagingInfoLine": "共{0}页，{1}次出击",
 	"BattleHistoryPagingOption1": "100",

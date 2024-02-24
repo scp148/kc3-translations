@@ -61,25 +61,7 @@
 
 	"ProfilePageTitle": "提督概况",
 	"ProfileFirstTimeHints": "<strong>欢迎来到 KC3改 作战指挥所！</strong></br>初次使用提示：</br><ul><li>可以点击页面右上角的<b>帮助</b>键打开帮助页面，获得更多常见问题解答。<b>&#8599;</b></li><li>如果是首次使用此界面，需要首先打开浏览器的开发者工具界面并打开“<b>Kancolle</b>”标签。查看帮助页面以获得更多信息。</li><li>如果只想导入备份数据，请在开始前关闭游戏页面。</li><li>如果想将舰娘或装备信息导出成图片，请打开陈列柜标签并在页面上方，并选择“导出”。</li><li>通常情况下，如果需要重新载入或刷新作战指挥所，只需点击左上角的</br><b>&#8598;心形图标</b>即可，如果没有特别要求，无需使用浏览器的<b>&#10227;刷新功能</b>。</li><li>单击以关闭此信息</li></ul>",
-	"ProfileHelp1Q": "这个页面是空的，页面上方有错误信息",
-	"ProfileHelp1A": "请首先打开浏览器的开发者工具界面并打开“Kancolle”标签。在浏览器右上角的插件栏栏里点击金色的心形图标（如果找不到可以在插件菜单里找找），选择“开始舰队收藏”。使用<b>F12 或 Ctrl+Shift+J</b>打开开发者面板</b>。<br/>开启开发者面板后，在面板顶端菜单栏选择“<b>Kancolle</b>”标签。可能需要按<b>“»”</b>以展开剩余标签（默认情况下“Kancolle”标签在最后一位，可以将其拖拽重新排列），请一定要<b>先打开该面板</b>再开始游戏。DMM账号登陆成功后，游戏将自动开始加载。<br/>只有这样才能保证KC3能读取游戏信息。当游戏主要信息加载完成后，作战指挥所将完全可用。",
-	"ProfileHelp2Q": "找不到游戏内的任务翻译功能和字幕功能",
-	"ProfileHelp2A": "在插件里选择“开始舰队收藏”后，按F12或Ctrl+Shift+J开启开发者工具前，可以在准备页面修改这些设置。",
-	"ProfileHelp3Q": "*****The percentages under \"Statistics\" are wrong.",
-	"ProfileHelp3A": "*****The in-game admiral profile screen has its own algorithm for these stats.",
-	"ProfileHelp4Q": "*****There's an option to clear profile data and an option to clear history. What's the difference?",
-	"ProfileHelp4A": "*****<b>Profile data</b> is data that can be read directly from the game: ship list, equipment list, fleet composition, quests, map gauges, etc. Clearing your profile data deletes information that can be easily replaced by moving through in-game menus, particularly the main screen and the quest menu.<br/><b>History</b> is data that KC3 has recorded over the course of your time playing while the viewer was active. It isn't data that can be acquired directly through in-game menus. Clearing your history will delete your records for all accounts that have played on this browser profile and cannot be recovered without a data backup.",
-	"ProfileHelp5Q": "*****Does clearing data have any effect on my in-game data?",
-	"ProfileHelp5A": "*****No. <strong>KC3 does not alter your in-game data in any way.</strong> Only the records and logs saved to your computer are modified by this viewer.",
-	"ProfileHelp6Q": "*****How do I make sure my profile data is updated within the Strategy Room?",
-	"ProfileHelp6A": "*****Click on the <b>heart logo</b> located at the top of the sidebar to the left. You don't need to use your browser's</br><b>&#10227; Reload this page</b> button unless specified to do so.",
-	"ProfileHelp7Q": "*****Can I export my history and profile data to another device?",
-	"ProfileHelp7A": "*****Go to the Data Backup tab.",
-	"ProfileHelp8Q": "*****How do I export my ship and equipment list to a single image?",
-	"ProfileHelp8A": "*****Go to the Showcase tab and select the Export options at the top of the page.",
-	"ProfileHelp9Q": "*****Why aren't the bug fixes working?",
-	"ProfileHelp9A": "*****Close your game tab and other opened KC3 tabs first. Some data modifications require the game to be closed in order to avoid conflicts.",
-
+	
 	"ProfileAdmiralInfo": "提督信息",
 	"ProfileAccountId": "ID",
 	"ProfileAdmiralName": "提督名",
@@ -220,21 +202,7 @@
 	"GraphOptionTooltips": "显示提示框",
 
 	"ShowcasePageTitle": "舰队和装备陈列柜",
-	"ShowcaseHelp1Q": "*****Some equipment are missing!",
-	"ShowcaseHelp1A": "*****Try to go back to home port in-game and refresh this page. It will fix itself.",
-	"ShowcaseHelp2Q": "*****How do I screenshot?",
-	"ShowcaseHelp2A": "*****You can use <a target=\"_blank\" href=\"https://app.prntscr.com/en/index.html\">lightshot</a>, <a target=\"_blank\" href=\"https://gyazo.com/\">gyazo</a>, or <a target=\"_blank\" href=\"http://puush.me/\">puush</a> or any preferred screenshot software.",
-	"ShowcaseHelp3Q": "*****The top 6 here is different from the top 6 on Ship List!",
-	"ShowcaseHelp3A": "*****Those are top 6 of the same levels. Unfortunately we will not go for the extra effort in further sorting them.",
-	"ShowcaseHelp4Q": "*****What are the colors and digits under each ship?",
-	"ShowcaseHelp4A": "*****Firepower, Torpedo, AA, Armor, and Luck. If it's a colored check, it's maxed. If it's a number, it is how far you are from maxing it. The exception is Luck which shows your current value but is colored.",
-	"ShowcaseHelp5Q": "*****Why some of my equipment/ships are not shown on export image?",
-	"ShowcaseHelp5A": "*****Image are showing only locked ships and items. If you acquired and locked item in current game session, you might need to go to home port once.",
-	"ShowcaseHelp6Q": "*****Exporter is downloading image instead of opening it in new tab or Imgur!",
-	"ShowcaseHelp6A": "*****In case of Imgur error or image data string is being too big for new tab to handle it will be downloaded.",
-	"ShowcaseHelp7Q": "*****How does export event locking tags work?",
-	"ShowcaseHelp7A": "*****If ship is locked in some operation you will see colored background behind it's name. If you only plan to lock it there you will see colored circle right after ship level. Please note colors on image doesn't necessarily match lock colors in game. You could compare them <a href=\"#locking\">here</a>.",
-
+	
 	"ShowcaseExportOutputLabel": "输出至：",
 	"ShowcaseExportOutputOption0": "下载",
 	"ShowcaseExportOutputOption1": "Imgur",
@@ -309,18 +277,6 @@
 	"LodgeRatingNG5": "活动攻略中？",
 
 	"ShipListPageTitle": "舰娘一览",
-
-	"ShipListHelp1Q": "*****Where is the heartlock, fuel, ammo, speed or marry column?",
-	"ShipListHelp1A": "*****They are merged or hidden by default thank to the limitation of page width. Could be toggled by the <b>C.Toggle</b> button, or enabled by contents width auto-fit.",
-	"ShipListHelp2Q": "*****Where are the ship types of XBB and AP?",
-	"ShipListHelp2A": "*****They are not used by our shipgirls (AP taken by abyssal).",
-	"ShipListHelp3Q": "*****Can I filter or sort by current HP or repair time of my shipgirls?",
-	"ShipListHelp3A": "*****Not here, go to <strong>Docking</strong> page instead.",
-	"ShipListHelp4Q": "*****What is \"Sort by Multiple Keys\"?",
-	"ShipListHelp4A": "*****<p>Normally you can sort ships by levels, or sort by ship types so that ships of same type are grouped together. But this doesn't give you the ability to say &quot;sort ship by their types, and under the same type, sort them by level.&quot;.</p><p>And sorting by multiple keys solves this problem: you can first sort ships by type to group them, then use ship level as the second key to sort under each type.</p><p>To use this function, select one column header you want to sort as usual. Once the first key is chosen, you can click &quot;Start&quot; to enable multiple key sorting, under this mode, each column header you click <strong>accumulates to</strong>, instead of replacing previous sorting method.</p><p>Suppose you want to sort ships by type, under the same type you want to sort by level, and if there are ships that have same type and level, you want to further sort them by morale. You can first click &quot;Type&quot; header, then toggle &quot;Start&quot; button to enable multiple key sorting. and then click &quot;Level&quot; and &quot;:)&quot; (Morale) in order. When toggling on &quot;Start&quot; button, you will see an extra line under it to indicate current sorting method. By performing actions above, you'll see &quot;Type &gt; Level &gt; Morale&quot;, which does what you want. If you want some keys to be sorted in reversed order, just click on that header again.</p>",
-	"ShipListHelp5Q": "*****What does the color of ship name mean?",
-	"ShipListHelp5A": "*****Background color indicates which fleet she belongs to:<span style=\"font-weight:bold;\" class=\"ship_onfleet-color1\">Fleet #1</span> or <span style=\"font-weight:bold;\" class=\"ship_onfleet-color2\">Fleet #2</span> or <span style=\"font-weight:bold;\" class=\"ship_onfleet-color3\">Fleet #3</span> or <span style=\"font-weight:bold;\" class=\"ship_onfleet-color4\">Fleet #4</span>.<br/><span style=\"color:#E49F9C;font-weight:bold;\">Pink font</span> means Level >= 100 (Married).",
-
 	"ShipListOptionsFiltersLabel": "筛选选项",
 	"ShipListFilterAll": "全部",
 	"ShipListFilterYes": "是",
@@ -421,30 +377,9 @@
 
 	"ConstructionPageTitle": "建造历史",
 
-	"ConstructionHelp1Q": "*****Are values of filters saved?",
-	"ConstructionHelp1A": "*****Not persisted for now, but will be kept until next browser reloading.",
-	"ConstructionHelp2Q": "*****Can I search resource values for a range?",
-	"ConstructionHelp2A": "*****You can optionally add <code>&gt;</code>, <code>&lt;</code>, <code>#</code> or <code>=</code> before the value, which means <code>greater than or equal to</code>, <code>less than or equal to</code>, <code>not equal to</code> or <code>equal to</code> (default logic).",
-	"ConstructionHelp3Q": "*****Can I do filtering by ship type?",
-	"ConstructionHelp3A": "*****Nope, it's troublesome via only one select control matching by IDs. Feel free to enhance it if you would like to.",
-	"DevelopmentPageTitle": "*****Equipment Development History",
-	"DevelopmentHelp1Q": "*****Are values of filters saved?",
-	"DevelopmentHelp1A": "*****Not persisted for now, but will be kept until next browser reloading.",
-	"DevelopmentHelp2Q": "*****Can I search resource values for a range?",
-	"DevelopmentHelp2A": "*****You can optionally add <code>&gt;</code>, <code>&lt;</code>, <code>#</code> or <code>=</code> before the value, which means <code>greater than or equal to</code>, <code>less than or equal to</code>, <code>not equal to</code> or <code>equal to</code> (default logic).",
-	"DevelopmentHelp3Q": "*****Can I do filtering by ship type?",
-	"DevelopmentHelp3A": "*****Nope, it's troublesome via only one select control matching by IDs. Feel free to enhance it if you would like to.",
-	
 	"DevelopmentFailureOption": "开发失败...",
 
 	"LargeShipConstrHistoryPageTitle": "大型舰建造历史",
-
-	"LargeShipConstrHelp1Q": "*****Are values of filters saved?",
-	"LargeShipConstrHelp1A": "*****Not persisted for now, but will be kept until next browser reloading.",
-	"LargeShipConstrHelp2Q": "*****Can I search resource values for a range?",
-	"LargeShipConstrHelp2A": "*****You can optionally add <code>&gt;</code>, <code>&lt;</code>, <code>#</code> or <code>=</code> before the value, which means <code>greater than or equal to</code>, <code>less than or equal to</code>, <code>not equal to</code> or <code>equal to</code> (default logic).",
-	"LargeShipConstrHelp3Q": "*****Can I do filtering by ship type?",
-	"LargeShipConstrHelp3A": "*****Nope, it's troublesome via only one select control matching by IDs. Feel free to enhance it if you would like to.",
 
 	"ArsenalHistoryResetButton": "重置",
 	"ArsenalHistoryPagingInfoLineRemark": "*****<!-- Don't change span/class name to ensure data value can be filled -->",
@@ -452,11 +387,6 @@
 	"ArsenalHistoryDbFailure": "有什么出问题了！查看错误记录获取详细信息",
 
 	"DockingTimePageTitle": "入渠一览",
-
-	"DockingTimeHelp1Q": "*****What's this page for?",
-	"DockingTimeHelp1A": "*****This page lists all ships whose HP aren't full. Both docking time and time required for anchorage repair are shown.",
-	"DockingTimeHelp2Q": "*****Why some ships are shown in different background color?",
-	"DockingTimeHelp2A": "*****Docking ships and ships on expedition have different colors than others.",
 
 	"DockingTimeGridTitleHp": "HP",
 	"DockingTimeGridTitleDocking": "入渠修理",
@@ -519,17 +449,6 @@
 	
 	"BlueprintsPageTitle": "改造图纸需求",
 
-	"BlueprintsHelp1Q": "*****What is this page for?",
-	"BlueprintsHelp1A": "*****This page displays ships that require materials such as blueprints in order to be remodeled.",
-	"BlueprintsHelp2Q": "*****Why are some materials grayed-out?",
-	"BlueprintsHelp2A": "*****Grayed-out materials have already been used to remodel the ship in question and are therefore no longer required.",
-	"BlueprintsHelp3Q": "*****Which ships should be given a higher remodel priority?",
-	"BlueprintsHelp3A": "*****This depends on your personal situation. To learn more, refer to these articles:<br/><a href=\"https://en.kancollewiki.net/Help:Ship_Priority\" target=\"_blank\">Ship Priority</a>, <a href=\"https://kancolle.fandom.com/wiki/Partials/Blueprint_Priority\" target=\"_blank\">Blueprint Priority</a>, <a href=\"https://zekamashi.net/kancolle-kouryaku/kunsyou/\" target=\"_blank\">改装優先順位</a>",
-	"BlueprintsHelp4Q": "*****What is the purpose of the All Ships view?",
-	"BlueprintsHelp4A": "*****The All Ships view displays all ships currently implemented in-game who require materials in order to be remodeled.<br />It also attempts to display grayed-out materials and total needs by considering ships that are already in your possession. In contrast to the Ships in Service view, several columns serve different purposes:<ul><li><b>ID</b> under the Ships in Service view corresponds to the ID assigned to your individual ships, but in All Ships view it is used to refer to the Master ID assigned to the ship's type. You can see these in the <a href=\"#mstship\">Ship Library</a>. For example, your fleet may have two Abukuma Kai Nis - one may have her own ID of 573 while the other has an ID of 5957. However, the Master ID of the ship type known as \"Abukuma Kai Ni\" is always 200.<li><b>Level</b> instead refers to the level required in order to remodel the ship in question.<li>The <b>Requirements</b> column additionally shows you the name of the ship's next form.</ul>",
-	"BlueprintsHelp5Q": "*****Why does the data seem weird or incorrect following a game maintenance?",
-	"BlueprintsHelp5A": "*****Sometimes the KanColle devs may either neglect to update the remodel data in a timely manner or they may put dummy data into the API result if multiple successive maintenances are scheduled. In order to fix such issues after the in-game data has stabilized, you can try refreshing our remodel info cache by clicking the <b>'Rebuild ship remodel information caches'</b> link on the <a href=\"#profile\">Profile</a> page.",
-
 	"BlueprintsViewTypeShipsInService": "已有舰娘",
 	"BlueprintsViewTypeAllShips": "全部舰娘",
 	"BlueprintsFilterHideLabel": "隐藏：",
@@ -541,10 +460,6 @@
 	"BlueprintsFooterInPossessionLabel": "现有材料：",
 
 	"EquipmentListPageTitle": "装备一览",
-	"EquipmentListHelp1Q": "*****Do you have a consolidated equipment list?",
-	"EquipmentListHelp1A": "*****Currently, no.",
-	"EquipmentListHelp2Q": "*****Where has category 41 gone?",
-	"EquipmentListHelp2A": "*****Currently category 41 is only used for Saiun (Disassembled for Transport), no longer available in game for now after Winter 2017 event.",
 
 	"EquipmentListTypeAllLabel": "全",
 	"EquipmentListGroupByTypeLabel": "按种类排列：",
@@ -564,13 +479,6 @@
 
 	"AircraftListPageTitle": "飞机管理",
 
-	"AircraftListHelp1Q": "*****What do the blue text in fighter stats mean?",
-	"AircraftListHelp1A": "*****They are active squadrons equipped on a ship (or land-base). They have higher fighter power than usual because plane slot formula is applied.",
-	"AircraftListHelp2Q": "*****What do those 'Unnamed Squadron' texts mean?",
-	"AircraftListHelp2A": "*****You are able to input any text in those boxes to assign your aircraft squadrons with any name as you wish. They are just human readable identifiers for this page only, do not affect any in-game data. The numbers in tooltip are in-game identifiers.",
-	"AircraftListHelp3Q": "*****Does this already involve fighter power proficiency bonus?",
-	"AircraftListHelp3A": "*****Yes.",
-
 	"AircraftListSquadNamePlaceholder": "未命名航空队",
 	
 	"AircraftListLbasWorld": "<p align=\"right\">陆航-海域{0}</p>",
@@ -580,27 +488,7 @@
 	"AkashiToggleButton": "显示可改修装备",
 	"AkashiEquipLockLabel": "包括已装备/已锁定",
 
-	"AkashiHelp1Q": "*****What do the colored boxes and colored numbers mean?",
-	"AkashiHelp1A": "*****Red texts or equipment boxes mean you cannot execute this upgrade. It's either you do not have this item or item with these stars, or you do not have any of the required ships, insufficient resources, devmats, screws or related items to be consumed.<br />Yellow ones mean this item or the amount of items to be consumed you already have, but they are currently equipped or locked. To improve, you have to take them off from your ships or land bases; To upgrade, you have to unlock them.",
-	"AkashiHelp2Q": "*****Why are some amounts question mark? why are some improvable items in game not here?",
-	"AkashiHelp2A": "*****Database for these items are not up to date yet, please wait for the results of verifying and updating.<br />Alternatively visit wiki pages or utility sites like: <a href=\"http://fleet.moe/arsenal/\" target=\"_blank\">WhoCallsTheFleet Arsenal</a>, <a href=\"http://akashi-list.me/\" target=\"_blank\">Simplified Chart for Akashi</a>.",
-	"AkashiHelp3Q": "*****What are those green amounts in brackets?",
-	"AkashiHelp3A": "*****They are amounts required to guarantee success.",
-	"AkashiHelp4Q": "*****How to track and scroll to specific equipment item? How to remove the tracking?",
-	"AkashiHelp4A": "*****Redirecting from Equipment List or clicking an item icon with holding <kbd>Alt</kbd> key will keep tracking specified equipment.<br />To cancel the tracking, hold <kbd>Alt</kbd> key and click any DoW button.",
-	"AkashiHelp5Q": "*****Why does the prerequisite checking not matched with my data in game?",
-	"AkashiHelp5A": "*****Go to home port in game once, then click on Heart Logo to refresh with latest data.",
-	"AkashiHelp6Q": "*****Why does the DoW selected by default sometime not match with today?",
-	"AkashiHelp6A": "*****Because it's current day of week in Japan standard timezone, not yours.<br />Either make sure your computer's clock gets synced if there is off a bit.",
-
 	"FleetManagerPageTitle": "编成管理",
-
-	"FleetManagerHelp1Q": "*****Why does \"Current Fleets\" not matched with the fleets in game?",
-	"FleetManagerHelp1A": "*****Go to home port in game once, then click on Heart Logo to refresh with latest data.",
-	"FleetManagerHelp2Q": "*****Why eLoS or fighter power looks different? Gear improvement and plane proficiency disappeared?",
-	"FleetManagerHelp2A": "*****Because these data, such as gear improvement and plane proficiency, are not saved to old sortie history record. They are not able to completely be reproduced when import from old history. Furthermore, as your HQ level also not saved aside, value of eLoS Formula 33 might be affected by your current HQ level.",
-	"FleetManagerHelp3Q": "*****Why support power is 0 or quite few?",
-	"FleetManagerHelp3A": "*****Because ships' fire and torpedo power with equipments are not saved to sortie history. Support power is not able to be reproduced when import from history, although some fixed powers are given to CV(L).",
 
 	"FleetManagerViewTypeCurrentLabel": "当前舰队",
 	"FleetManagerViewTypeSavedLabel": "已保存舰队",
@@ -711,13 +599,7 @@
 	"QuestFlowchartAllPrompt": "你确定吗？\n全部任务数据将被清空，包括已完成的单次任务的记录。丢失的数据将无法恢复。",
 
 	"ShipQuestsPageTitle": "任务所需舰娘列表",
-	"ShipQuestsHelp1Q": "*****What is this page?",
-	"ShipQuestsHelp1A": "*****This page shows player's ships with all associated quests except limited-time ones.",
-	"ShipQuestsHelp2Q": "*****Why do you need it?",
-	"ShipQuestsHelp2A": "*****Suppose, you have some ships, which you don't need anymore, but can be required for some one-time quests.<br/>Just go to this page and see which ships required for what quests.",
-	"ShipQuestsHelp3Q": "*****Why not limited-time quests?",
-	"ShipQuestsHelp3A": "*****Because quests are identified by in-game API ID numbers, and game developers often assign the ID of out-dated limited-time quest to a new quest. Required ships might be different, old info unreliable.",
-	
+
     "ShipListGridTitleQuests": "任务",
 	"MapHistoryPageTitle": "通常海域出击历史",
 	"EventHistoryPageTitle": "活动限定海域出击历史",
@@ -767,6 +649,9 @@
 	"EventHistoryWorldTab56": "2023早春活",
 	"EventHistoryWorldTab56Tip": "2023年度冬季、早春合并活动",
 	"EventHistoryWorldTab57": "2023夏活",
+	"EventHistoryWorldTab58" : "2024早春活",
+	"EventHistoryWorldTab58Tip" : "2024年度冬季、早春合并活动",
+
 
 	"BattleHistoryMinimapPreview": "{0}-{1} 海图预览",
 	"BattleHistoryElosBranchesTitle": "已知索敌路线分歧：",
@@ -815,8 +700,8 @@
 	"BattleHistoryNodeExpLabel": "基础经验值",
 	"BattleHistoryExpUnitLabel": "exp",
 
-	"BattleReplayToClipboard": "*****Replay data copied to clipboard",
-	"BattleReplayGenReplayFailed": "*****Failed to generate replay data",
+	"BattleReplayToClipboard": "回放数据已复制至剪贴板",
+	"BattleReplayGenReplayFailed": "回放数据生成失败",
 
 	"EncountersPageTitle": "深海编成记录",
 	"EncountersWorldPickerDefaultOption": "选择海域...",
@@ -833,7 +718,7 @@
 	"EncountersMapNameLabel": "海域 {0}",
 	"EncountersNodeNameLabel": "{0:letter}点 {1:jpname}",
 
-	"EncountersLaseBaseAirRaid": "*****Land-Base Air Raid",
+	"EncountersLaseBaseAirRaid": "基地航空队空袭",
 	"EncountersLbasAirPowPrefix": "*****[LBAS] ",
 	"EncountersNodeTotalTip": "已记录遭遇：{0}次",
 	"EncountersNodeSummaryTip": "已记录遭遇：{0}次\n {1} 阵容 /{2} 路线 /{3} 基础经验值\n平均基础经验值：{4}",
@@ -846,12 +731,6 @@
 
 	"ShipDropPageTitle": "掉落记录",
 
-	"ShipDropHelp1Q": "*****Are these records from a data collecting cloud service?",
-	"ShipDropHelp1A": "*****Nope. These drops are from recorded sortie history data of your own, if you have enabled the history recording.<br/>It's just an alternative view of Maps / Events History pages, no remote data from any report server have been fetched.<br/>It's expected that unable to determine boss node from 'ancient' history or events data.<br/>Will be a little weird if node letters are not ready or your history data have been partially corrupted.",
-	"ShipDropHelp2Q": "*****Will some ship types listed here drop?",
-	"ShipDropHelp2A": "*****Nope. All available ship types are just copied from Ship List page.<br/>To activate only 1 filter quickly instead of switching, like doing it on the Ship List page, you can hold <kbd>Alt</kbd> key and left click one of them.",
-	"ShipDropHelpMore": "*****Online statistics services: <a href=\"https://db.kcwiki.org/drop/\" target=\"_blank\">poi-statistics</a><br/><a href=\"https://tsundb.kc3.moe/\" target=\"_blank\">TsunDB</a>",
-	
 	"ShipDropWorldPickerDefaultOption": "选择海域...",
 	"ShipDropMapPickerDefaultOption": "选择地图...",
 	"ShipDropBattleRankLabel": "战斗评价；",
@@ -868,11 +747,6 @@
 
 	"ExpedPastPageTitle": "远征历史",
 
-	"ExpedPastHelp1Q": "*****What do colors mean since 2019-07-18?",
-	"ExpedPastHelp1A": "*****<span style='color:blue'>Monthly Expedition</span>: blue name, can be succeeded once every month, reset at 12:00 JST on the 15th;<br/><span style='color:red'>Combat Expedition</span>: red time, your fleet may take damage from enemy.<br/>btw, expedition name with <code>*</code> mark means sortie support expedition which <b>cannot</b> be cancelled.",
-	"ExpedPastHelp2Q": "*****Mouse and key operation trivia:",
-	"ExpedPastHelp2A": "*****<p>Holding <kbd>Alt</kbd> key and clicking on a checkbox of expedition or fleet, will check the selected item only instead of toggling it.</p><p>Clicking on any ship icon of result list will show the fleet in Fleet Manager. Holding <kbd>Ctrl</kbd> or <kbd>Meta</kbd> key will open Fleet Manager in new tab.</p>",
-	
 	"ExpedPastWorldLabel": "海域{0}",
 	"ExpedPastFleet2Label": "第2舰队",
 	"ExpedPastFleet3Label": "第3舰队",
@@ -895,9 +769,6 @@
 
 	"MasterUpdatePageTitle": "游戏更新",
 
-	"MasterUpdateHelp1Q": "*****How long are records of updates kept?",
-	"MasterUpdateHelp1A": "*****7 days from being detected.",
-	
 	"MasterUpdateNewPlayerShips": "新舰娘",
 	"MasterUpdateNewAbyssalShips": "新深海栖舰",
 	"MasterUpdateNewEquipment": "新装备",

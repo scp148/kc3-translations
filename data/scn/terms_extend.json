@@ -359,8 +359,6 @@
 	"ShipListSortAscend": "↓",
 	"ShipListSortDescend": "↑",
 	"ShipListGridTitleId": "ID",
-	"ShipListGridTitleMasterId": "*****MstID",
-	"ShipListGridTitleSortNo": "*****DexID",
 	"ShipListGridTitleName": "舰名",
 	"ShipListGridTitleSClass": "舰型",
 	"ShipListGridTitleSClassShort": "Lv.",
@@ -382,7 +380,6 @@
 	"LargeShipConstrHistoryPageTitle": "大型舰建造历史",
 
 	"ArsenalHistoryResetButton": "重置",
-	"ArsenalHistoryPagingInfoLineRemark": "*****<!-- Don't change span/class name to ensure data value can be filled -->",
 	"ArsenalHistoryPagingInfoLineLabel": "项每页，共<span class=\"total_page\">0</span>页，显示项目<span class=\"filtered_items\">0</span>/<span class=\"total_items\">0</span> (<span class=\"percent\">0</span>%)",
 	"ArsenalHistoryDbFailure": "有什么出问题了！查看错误记录获取详细信息",
 
@@ -717,7 +714,6 @@
 	"EncountersNodeNameLabel": "{0:letter}点 {1:jpname}",
 
 	"EncountersLaseBaseAirRaid": "基地航空队空袭",
-	"EncountersLbasAirPowPrefix": "*****[LBAS] ",
 	"EncountersNodeTotalTip": "已记录遭遇：{0}次",
 	"EncountersNodeSummaryTip": "已记录遭遇：{0}次\n {1} 阵容 /{2} 路线 /{3} 基础经验值\n平均基础经验值：{4}",
 

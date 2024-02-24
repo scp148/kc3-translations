@@ -1,5 +1,6 @@
 {
 	"StrategyRoomTitle": "KC3改 作战指挥所",
+
 	"StrategyRoomTitlePattern": "{0:StrategyRoomTitle} - {1:activedTabMenuTitle}",
 	"LogoTooltip": "刷新当前页面",
 	"FirstRunMessage": "作战指挥所并未就绪，请打开游戏以便获取游戏数据，并在游戏加载前按F12打开开发面板。",
@@ -60,8 +61,8 @@
 	"TabSubMenuJukebox": "音乐点播",
 
 	"ProfilePageTitle": "提督概况",
+
 	"ProfileFirstTimeHints": "<strong>欢迎来到 KC3改 作战指挥所！</strong></br>初次使用提示：</br><ul><li>可以点击页面右上角的<b>帮助</b>键打开帮助页面，获得更多常见问题解答。<b>&#8599;</b></li><li>如果是首次使用此界面，需要首先打开浏览器的开发者工具界面并打开“<b>Kancolle</b>”标签。查看帮助页面以获得更多信息。</li><li>如果只想导入备份数据，请在开始前关闭游戏页面。</li><li>如果想将舰娘或装备信息导出成图片，请打开陈列柜标签并在页面上方，并选择“导出”。</li><li>通常情况下，如果需要重新载入或刷新作战指挥所，只需点击左上角的</br><b>&#8598;心形图标</b>即可，如果没有特别要求，无需使用浏览器的<b>&#10227;刷新功能</b>。</li><li>单击以关闭此信息</li></ul>",
-	
 	"ProfileAdmiralInfo": "提督信息",
 	"ProfileAccountId": "ID",
 	"ProfileAdmiralName": "提督名",
@@ -70,7 +71,6 @@
 	"ProfileAdmiralRank": "头衔",
 	"ProfileHqLevel": "等级",
 	"ProfileHqExpValue": "经验值",
-	
 	"ProfileNewsfeed": "最新信息",
 	"NewsfeedRepair": "“入渠”的舰娘已完成修复。",
 	"NewsfeedConstrct": "“工厂”中的舰娘已建造完成。",
@@ -82,7 +82,6 @@
 	"NewsfeedPvPLose": "您在与“{0:opponentName}”的演习中败北。",
 	"NewsfeedUnknown": "<span style='color:red;'>{1}</span>",
 	"ProfileNewsfeedToggleButton": "显示已翻译消息",
-
 	"ProfileStatistics": "战绩统计",
 	"ProfileStatsSortie": "出击",
 	"ProfileStatsPvP": "演习",
@@ -93,21 +92,18 @@
 	"ProfileStatsSuccessRate": "成功率",
 	"ProfileStatsSuccessCount": "成功次数",
 	"ProfileStatsTotalCount": "总远征次数",
-
 	"ProfileRankingPoints": "战果",
 	"ProfilePreviousGained": "上个统计周期内获得",
 	"ProfileCurrentStartTime": "当前统计周期开始于",
 	"ProfileCurrentExpCutoff": "当前统计周期开始时提督经验值",
 	"ProfileCurrentGained": "当前统计周期获得",
 	"ProfileManuallyCutoffButton": "开始新统计周期",
-
 	"ProfileSortieStatistics": "出击统计",
 	"ProfileLastMonthBattles": "30天内共进行战斗",
 	"ProfileAverageBattlesPerDay": "30天内平均每日进行战斗",
 	"ProfileLastTwoDayBattles": "48小时内共进行战斗",
 	"ProfileLastDayBattles": "24小时内共进行战斗",
 	"ProfileBattlesDuringSorties": "{0:battles} 次<span style=\"font-weight:normal\"> (共 {1} 次出击)</span>",
-
 	"ProfileManagementProfileData": "提督数据",
 	"ProfileManagementExport": "导出",
 	"ProfileExportLocalStorage": "将基础数据导出为KC3文件",
@@ -125,7 +121,6 @@
 	"ProfileExportAbyssalCsv": "将遭遇深海导出为CSV",
 	"ProfileExportErrorLogs": "将错误记录导出为JSON",
 	"ProfileExportErrorAlert": "有什么出问题了！你可以报告错误记录",
-
 	"ProfileManagementImport": "导入",
 	"ProfileManagementImportTip": "（<em>如果使用未经信任来源的文件，风险自负！</em>）",
 	"ProfileImportLocalStorage": "校验并导入KC3文件",
@@ -137,14 +132,12 @@
 	"ProfileImportConfigConfirm": "确定要覆盖现有的全部设置吗？",
 	"ProfileImportConfigDone": "设置已导入，请重新加载全部KC3页面！",
 	"ProfileImportUnsupport": "很遗憾，此浏览器无法读取文件。",
-
 	"ProfileManagementClearData": "清空数据",
 	"ProfileClearLocalStorage": "清空玩家信息",
 	"ProfileClearIndexedDatabase": "清空历史数据",
 	"ProfileClearLedgerTable": "仅清空流水账数据",
 	"ProfileClearDismissedFlags": "重置提醒信息记录",
 	"ProfileLocalStorageUsage": "已使用{0}K，{1}%",
-
 	"ProfileManagementBugFixes": "数据修复",
 	"ProfileBugFixRemodelCache": "重置舰娘改造信息缓存",
 	"ProfileBugFixShipGearCache": "清空错误舰娘及装备缓存",
@@ -165,12 +158,14 @@
 	"ProfileBugFixDbConfirmDialog": "游戏是否已关闭？\n在执行修复前必须先关闭游戏页面，否则将无法成功修复。\n即将开始在后台更新数据库\n请勿对浏览器进行任何操作，直到“完成”或者失败弹窗弹出。",
 
 	"ResourcesPageTitle": "资源图表",
+
 	"ResourcesFuelLabel": "燃料",
 	"ResourcesAmmoLabel": "弹药",
 	"ResourcesSteelLabel": "钢材",
 	"ResourcesBauxiteLabel": "铝土",
 
 	"ConsumablesPageTitle": "资材图表",
+
 	"ConsumablesBucketLabel": "高速修复材",
 	"ConsumablesDevMatLabel": "开发资材",
 	"ConsumablesScrewsLabel": "改修资材",
@@ -178,6 +173,7 @@
 	"ConsumablesItemsInPossession": "持有：",
 
 	"ExperiencePageTitle": "经验图表",
+
 	"ExperienceExpValueLabel": "经验值",
 	"ExperienceLevelLabel": "等级",
 	"GraphStartDateLabel": "起始于",
@@ -235,11 +231,9 @@
 	"ShowcaseShipTypeDD": "驱逐舰",
 	"ShowcaseShipTypeSS": "潜水舰",
 	"ShowcaseShipTypeAX": "辅助舰艇",
-
 	"ShowcaseEquipTypeShells": "炮弹",
 	"ShowcaseEquipTypeNightGear": "夜间装备",
 	"ShowcaseEquipTypeOther": "其他装备",
-
 	"LodgerPageStepRw": "前1小时",
 	"LodgerPageStepFw": "后1小时",
 	"LodgerPageRefresh": "应用",
@@ -277,6 +271,7 @@
 	"LodgeRatingNG5": "活动攻略中？",
 
 	"ShipListPageTitle": "舰娘一览",
+
 	"ShipListOptionsFiltersLabel": "筛选选项",
 	"ShipListFilterAll": "全部",
 	"ShipListFilterYes": "是",
@@ -341,7 +336,6 @@
 	"ShipListSTypeInvert": "反选",
 	"ShipListShipClassLabel": "显示舰级、舰型名",
 	"ShipListTooltipLabel": "显示提示框",
-
 	"ShipListShowByNameLabel": "以舰名筛选：",
 	"ShipListLevelFilterLabel": "等级",
 	"ShipListLevelUpToLabel": "到",
@@ -372,7 +366,6 @@
 	"ShipListFullNamePattern": "{0:className} {1:shipName}",
 	"ShipListPageNoPattern": "第{0}页",
 
-
 	"ConstructionPageTitle": "建造历史",
 
 	"DevelopmentFailureOption": "开发失败...",
@@ -390,17 +383,16 @@
 	"DockingTimeGridTitleFacility": "明石修理",
 
 	"ExpcalcPageTitle": "练级计划",
+
 	"ExpcalcSectionsLabel": "页面分区",
 	"ExpcalcSectionsToggleGoalTemplates": "计划模板",
 	"ExpcalcSectionsToggleRecommended": "推荐舰娘",
 	"ExpcalcSectionsToggleOtherShips": "其他舰娘",
-
 	"ExpcalcHighlightLabel": "高亮显示",
 	"ExpcalcHighlightButtonClearAll": "清除高亮",
 	"ExpcalcHighlightButtonCloseToRemodel": "接近改造等级",
 	"ExpcalcHighlightButtonCanBeRemodelled": "到达改造等级",
 	"ExpcalcHighlightLevelDiffLabel": "高亮舰娘的等级距离改造还差：",
-
 	"ExpcalcOrderByLabel": "排序方法",
 	"ExpcalcOrderByRadioId": "ID",
 	"ExpcalcOrderByRadioExpLeft": "剩余经验",
@@ -411,7 +403,6 @@
 	"ExpcalcOrderByRadioGoal": "目标等级",
 	"ExpcalcOrderByRadioLevelsToGoal": "距离目标等级",
 	"ExpcalcCurrentGoalsLabel": "当前目标",
-
 	"ExpcalcGoalTemplatesLabel": "计划模板",
 	"ExpcalcRecommendedLabel": "推荐舰娘",
 	"ExpcalcOtherShipsLabel": "其他舰娘",
@@ -428,7 +419,6 @@
 	"ExpcalcRemoveButton": "x",
 	"ExpcalcEditButton": "&#9998;",
 	"ExpcalcSaveButton": "&#128190;",
-
 	"ExpcalcShipLevelLabel": "等级",
 	"ExpcalcLevelGoalLabel": "目标",
 	"ExpcalcExpLeftLabel": "剩余经验",
@@ -443,7 +433,6 @@
 	"ExpcalcApplyTemplateConfirm": "模板将被套用于以下舰娘： \n{0}\n确定要套用吗？",
 	"ExpcalcChangeGoalConfirm": "确定将{0:name} (#{1:id})的练级目标修改为{2}？",
 
-	
 	"BlueprintsPageTitle": "改造图纸需求",
 
 	"BlueprintsViewTypeShipsInService": "已有舰娘",
@@ -471,17 +460,16 @@
 	"EquipmentListSortByGameTip": "按照游戏内默认排序",
 	"EquipmentListTotalLabel": "共{0}个{1:equipInfo}",
 	"EquipmentListEquipLabel": "（已装备：{0}，剩余：{1}）",
-
 	"EquipmentListLbasWorld": "<p align=\"right\">陆航-海域{0}</p>",
 
 	"AircraftListPageTitle": "飞机管理",
 
 	"AircraftListSquadNamePlaceholder": "未命名航空队",
-	
 	"AircraftListLbasWorld": "<p align=\"right\">陆航-海域{0}</p>",
 	"AircraftListLbasMoving": "<p align=\"right\">陆航-转换中</p>",
 
 	"AkashiPageTitle": "明石的改修工厂",
+
 	"AkashiToggleButton": "显示可改修装备",
 	"AkashiEquipLockLabel": "包括已装备/已锁定",
 
@@ -521,12 +509,12 @@
 	"FleetManagerExpedFleetName": "{0:suggestedName}舰队",
 	"FleetManagerExpedInvalidInputError": "无效远征ID：{0}",
 	"FleetManagerExpedIdNotFoundError": "未找到ID为{0}的远征数据",
-
 	"FleetManagerSnapshotPermissionError": "请点击浏览器工具栏的KC3改图标以授予截图权限",
 	"FleetManagerSnapshotSavedPrompt": "保存至{0}",
 	"FleetManagerSnapshotFailed": "舰队截图失败",
 
 	"LockingPlannerPageTitle": "锁船规划",
+
 	"LockingPlannerOperationTypeAll": "全部",
 	"LockingPlannerOperationTypeMain": "前段作战",
 	"LockingPlannerOperationTypeExtra": "后段作战",
@@ -571,6 +559,7 @@
 	"EventLockingTagName11": "2023夏活《美D-Day登陆部队》",
 
 	"QuestFlowchartPageTitle": "周期任务流程图",
+
 	"QuestFlowchartResetLabel": "重置任务：",
 	"QuestFlowchartResetDailies": "日常任务",
 	"QuestFlowchartResetWeeklies": "周常任务",
@@ -598,8 +587,11 @@
 	"ShipQuestsPageTitle": "任务所需舰娘列表",
 
     "ShipListGridTitleQuests": "任务",
+
 	"MapHistoryPageTitle": "通常海域出击历史",
+
 	"EventHistoryPageTitle": "活动限定海域出击历史",
+	
 	"StrategyNormalMapGo": "第{0}海域",
 	"StrategyEventGo": "活动海域",
 	"MapHistoryWorldTabAll": "所有海域",
@@ -610,7 +602,6 @@
 	"MapHistoryWorldTab5": "南方海域",
 	"MapHistoryWorldTab6": "中部海域",
 	"MapHistoryWorldTab7": "南西海域",
-    
 	"EventHistoryWorldTab30": "2015春活",
 	"EventHistoryWorldTab31": "2015夏活",
 	"EventHistoryWorldTab32": "2015秋活",
@@ -648,7 +639,6 @@
 	"EventHistoryWorldTab57" : "2023夏活",
 	"EventHistoryWorldTab58" : "2024早春活",
 	"EventHistoryWorldTab58Tip" : "2024年度冬季、早春合并活动",
-
 	"BattleHistoryMinimapPreview": "{0}-{1} 海图预览",
 	"BattleHistoryElosBranchesTitle": "已知索敌路线分歧：",
 	"BattleHistoryMapCleared": "海域已解放!",
@@ -678,7 +668,6 @@
 	"BattleHistoryFleetLabelNodeSupport": "道中支援",
 	"BattleHistoryFleetLabelBossSupport": "决战支援",
 	"BattleHistoryFleetLabelLbas": "基地航空队",
-
 	"BattleHistoryFleetButtonToManager": "编成管理",
 	"BattleHistoryFleetButtonToManagerTip": "在编成管理页面显示",
 	"BattleHistoryFleetButtonImgBuilder": "ImgBuilder",
@@ -687,18 +676,17 @@
 	"BattleHistoryFleetButtonAirCalcTip": "在外部的制空权模拟器中查看舰队",
 	"BattleHistoryFleetButtonJervisOr": "Jervis作战室",
 	"BattleHistoryFleetButtonJervisOrTip": "在外部的Jervis作战室中查看舰队",
-
 	"BattleHistoryAirRaidTip": "航空基地受伤害共计：{0}\n损失情况：{1}\n燃料或铝土矿损失：{2}\n制空状态：{3}\n{11:推算的敌方制空值}\n击坠敌机率：{4}\n敌舰攻残余：{5}\n敌舰爆残余：{6}\n对敌爆击最有效的防空航空队:\n　中队1：{7}\n　中队2：{8}\n　中队3：{9}\n　中队4：{10}",
 	"BattleHistoryHeavyAirRaidTip": "超重爆空袭迎击按钮结果：{0}\n来袭敌舰ID：{1}",
 	"BattleHistoryFleetAndLbasCostTip": "已知舰队消耗或收入：{0}\n最近基地航空队消耗：{1}",
 	"BattleHistoryHqExpLabel": "提督经验值",
 	"BattleHistoryNodeExpLabel": "基础经验值",
 	"BattleHistoryExpUnitLabel": "exp",
-
 	"BattleReplayToClipboard": "回放数据已复制至剪贴板",
 	"BattleReplayGenReplayFailed": "回放数据生成失败",
 
 	"EncountersPageTitle": "深海编成记录",
+
 	"EncountersWorldPickerDefaultOption": "选择海域...",
 	"EncountersMapPickerDefaultOption": "选择地图...",
 	"EncountersClearPickerDefaultOption": "所有状态",
@@ -712,12 +700,12 @@
 	"EncountersDifficultyPickerOptionHard": "甲",
 	"EncountersMapNameLabel": "海域 {0}",
 	"EncountersNodeNameLabel": "{0:letter}点 {1:jpname}",
-
 	"EncountersLaseBaseAirRaid": "基地航空队空袭",
 	"EncountersNodeTotalTip": "已记录遭遇：{0}次",
 	"EncountersNodeSummaryTip": "已记录遭遇：{0}次\n {1} 阵容 /{2} 路线 /{3} 基础经验值\n平均基础经验值：{4}",
 
 	"PvpHistoryPageTitle": "演习历史",
+
 	"PvpHistoryToggleShipData": "舰娘信息",
 	"PvpHistoryToggleBattleInfo": "战斗信息",
 	"PvpHistoryReplayButton": "重播",
@@ -755,7 +743,6 @@
 	"ExpedPastExpedGsAllSparkled": "大成功需要全闪",
 	"ExpedPastExpedGsSparkleDrums": "大成功概率受闪数量影响，并且携带{0}个运输桶将提高概率",
 	"ExpedPastExpedGsSparkleLevel": "大成功概率受闪数量以及旗舰等级影响",
-
 	"ExpedPastExpedUnlockBy": "前置远征：{0}",
 	"ExpedPastPagingInfoLine": "共{0}页，{1}次远征，大成功率：{2} /{3} ({4}%)",
 	"ExpedPastListExpTip": "获得提督经验值",
@@ -769,13 +756,13 @@
 	"MasterUpdateNewSeasonalOrUpdated": "新立绘/季节立绘",
 	"MasterUpdateNewSeasonalTips": "如果有旧立绘出现，请清理缓存",
 	"MasterUpdateArchivedSeasonal": "旧季节立绘",
-
 	"MasterUpdateListAllPlayerShips": "显示所有舰娘",
 	"MasterUpdateListMoreButton": "更多",
 	"MasterUpdateListAllButton": "全部重置",
 	"MasterUpdateListToggleButton": "显示图标",
 
 	"MasterShipPageTitle": "舰娘图鉴",
+
 	"MasterShipNextRemodelLabel": "改造",
 	"MasterShipOtherFormsLabel": "其他形态",
 	"MasterShipSeasonalCgsLabel": "季节立绘",
@@ -796,6 +783,8 @@
 	"MasterShipSaltUnCheck": "否认她存在",
 	"MasterShipGoQuotes": "查看台词",
 	"MasterShipGoBack": "返回",
+
 	"MasterGearPageTitle": "装备图鉴",
+
 	"Dummy": "Dummy"
 }
